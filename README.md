@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I’m **Sri Kalyan aka Mr Blaze** , a backend-focused developer and SaaS builder.<br><br>I work mainly with:<br>- Discord bots & community tools<br>- Backend APIs (FastAPI)<br>- VPS & Linux-based hosting<br>- Scalable,  SaaS systems.<br><br>I’m currently focused on building **long-term, reliable products** in the **Discord, bots, and hosting ecosystem**<br>Always learning, building, and iterating.
+Hi, I’m **Sri Kalyan aka Mr Blaze** , a backend-focused developer and SaaS builder.<br><br>I work mainly with:<br>- Discord bots & community tools<br>- Backend APIs (FastAPI)<br>- VPS & Linux-based hosting<br>- Scalable,  SaaS systems.<br><br>I’m currently focused on building, **CYBER BYTE** : DISCORD BOT Builder & Hosting service and **PULSE** : Community Health Manager Bot <br>Always learning, building, and iterating. <br> DM me on discord @mr_blazee to be in dev team of cyber byte or pulse. <br>
+
 
 
 ## 🌐 Socials:
