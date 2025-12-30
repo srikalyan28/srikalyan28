@@ -7,7 +7,9 @@ I work mainly with:<br>
 - Scalable SaaS systems.<br><br>
 
 I’m currently focused on building:<br>
+<!--
 **[CYBER BYTE](https://dashboard.cyberbytehost.com)** (Discord Bot Hosting)<br>
+-->
 **[PULSE](https://pulse.cyberbytehost.com)** (Community Health Manager)<br>
 <!--
 **[Bot Forge](https://botforge.cyberbytehost.com)** (No-code Bot Builder)<br>
