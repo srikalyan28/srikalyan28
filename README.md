@@ -16,7 +16,7 @@ I’m currently focused on building:<br>
 **[Bot Panel](https://bot-panel.cyberbytehost.com)** (No-code Bot Dashboard with Payments)<br><br>
 -->
 Always learning, building, and iterating.<br><br>
-DM me on Discord **@mr_blazee** to be part of the dev team for Cyber Byte or Pulse.
+DM me on Discord **@mr_blazee** to have a discord bot with automations for anything or to debug existing ones . 
 
 
 
