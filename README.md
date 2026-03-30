@@ -2,21 +2,21 @@
 Hi, I’m **Sri Kalyan aka Mr Blaze**, a backend-focused developer and SaaS builder.<br><br>
 I work mainly with:<br>
 - Discord bots & community tools<br>
-- Backend APIs (FastAPI)<br>
+- Backend APIs <br>
 - VPS & Linux-based hosting<br>
 - Scalable SaaS systems.<br><br>
 <!--
 I’m currently focused on building:<br>
 
-**[CYBER BYTE](https://dashboard.cyberbytehost.com)** (Discord Bot Hosting)<br>
+**[CYBER BYTE](https://cyberbytehost.com)** (NO CODE DISCORD BOT MAKER)<br>
 
 **[PULSE](https://pulse.cyberbytehost.com)** (Community Health Manager)<br>
 
-**[Bot Forge](https://botforge.cyberbytehost.com)** (No-code Bot Builder)<br>
+
 **[Bot Panel](https://bot-panel.cyberbytehost.com)** (No-code Bot Dashboard with Payments)<br><br>
 -->
 Always learning, building, and iterating.<br><br>
-DM me on Discord **@mr_blazee** to have a discord bot with automations for anything or to debug existing ones . 
+DM me on Discord **@mr_blazee** to have a discord bot with automation scripts.
 
 
 
