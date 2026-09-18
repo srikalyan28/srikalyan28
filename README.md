@@ -1,14 +1,14 @@
 <div align="center">
   <h1>Sri Kalyan <span style="color: #666;">(Mr Blaze)</span></h1>
   <h3>Agentic Developer | SaaS Builder | Aspiring Medical Doctor</h3>
-  <p><strong>Available for hire | Open to collaboration on SaaS and automation projects</strong></p>
+  <p><strong>Open to collaboration on SaaS and automation projects</strong></p>
 </div>
 
 <hr />
 
 ## About Me
 
-I am a self-taught developer who builds and ships real-world projects using the latest AI coding agents. My primary background is in medicine—I am an aspiring doctor—but my passion for technology led me into software development. 
+I am a self-taught developer who builds and ships real-world projects using the latest AI coding agents. My primary background is in medicine, but my passion for technology led me into software development. 
 
 Because I didn't spend years in a traditional computer science program, I don't have a defined "specialization" or limits on what I can build. With enough AI tokens and creative independence, I can transition from building a web application to architecting a complex backend system in a single night. When I first started, I used to just click "accept" on every AI suggestion. Today, I architect the solutions, manage client projects, and direct the agents to write the exact logic required. 
 
@@ -30,8 +30,11 @@ If you have a SaaS idea or a project that requires a flexible, fast-moving devel
 <div align="left">
   <a href="mailto:sskalyan28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/sri_kalyan18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.gg/mr_blazee"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
+<p>
+  <strong>Email:</strong> sskalyan28@gmail.com <br/>
+  <strong>Instagram:</strong> @sri_kalyan18
+</p>
 
 ## Tech Stack
 
@@ -41,6 +44,7 @@ As an agentic coder, I can adapt to nearly any stack required. However, I have m
 <br/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
